@@ -1,284 +1,466 @@
-<rss xmlns:cbc="https://www.cbc.ca/rss/cbc" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
 <channel>
-<title>
-<![CDATA[ CBC | Top Stories News ]]>
-</title>
-<link>http://www.cbc.ca/news/?cmp=rss</link>
-<description>
-<![CDATA[ FOR PERSONAL USE ONLY ]]>
-</description>
-<language>en-ca</language>
-<lastBuildDate>Tue, 29 Sep 2020 15:40:16 EDT</lastBuildDate>
-<copyright>
-<![CDATA[ Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss ]]>
-</copyright>
-<docs>
-<![CDATA[ http://www.cbc.ca/rss/ ]]>
-</docs>
-<image>
-<title>CBC.ca</title>
-<url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
-<link>https://www.cbc.ca/news/?cmp=rss</link>
-</image>
-<item cbc:type="contentpackage" cbc:deptid="2.630" cbc:syndicate="true">
-<title>
-<![CDATA[ Feds announce plan to buy 7.9 million rapid COVID tests ]]>
-</title>
-<link>https://www.cbc.ca/news/politics/feds-rapid-testing-purchase-1.5743171?cmp=rss</link>
-<guid isPermaLink="false">1.5433912</guid>
-<pubDate>Mon, 20 Jan 2020 17:11:33 EST</pubDate>
-<author/>
-<category>News</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5554156.1588544520!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_460/covid-medical-supplies-20200424.jpg' alt='COVID Medical Supplies 20200424' width='460' title='Public Services and Procurement Minister Anita Anand listens to a question during a news conference in Ottawa, Thursday April 16, 2020. Anand says quality problems with medical and protective equipment procured from other countries should not be unexpected given the global surge in demand for these supplies. THE CANADIAN PRESS/Adrian Wyld' height='259' /> <p></p> ]]>
-</description>
-</item>
-<item cbc:type="contentpackage" cbc:deptid="2.636" cbc:syndicate="true">
-<title>
-<![CDATA[ COVID-19 economic recovery bill will be a confidence vote: Liberal House leader ]]>
-</title>
-<link>https://www.cbc.ca/news/politics/confidence-vote-covid-bill-1.5743034?cmp=rss</link>
-<guid isPermaLink="false">1.5637299</guid>
-<pubDate>Fri, 3 Jul 2020 18:30:39 EDT</pubDate>
-<author/>
-<category>News/Politics</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5742058.1601320391!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/cabinet-retreat-20200915.jpg' alt='Cabinet Retreat 20200915' width='460' title='Leader of the Government in the House of Commons Pablo Rodriguez arrives on the second day of the Liberal cabinet retreat in Ottawa on Tuesday, Sept. 15, 2020. ' height='259' /> <p></p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.642" cbc:syndicate="true">
-<title>
-<![CDATA[ Former Calgary MP Rob Anders faces tax evasion charges ]]>
-</title>
-<link>https://www.cbc.ca/news/canada/calgary/rob-anders-charged-cra-tax-evasion-court-calgary-1.5742965?cmp=rss</link>
-<guid isPermaLink="false">1.5742965</guid>
-<pubDate>Tue, 29 Sep 2020 10:28:02 EDT</pubDate>
-<author>Meghan Grant</author>
-<category>News/Canada/Calgary</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.2610411.1438892815!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_460/anders-conservative-rebuke.jpg' alt='Anders Conservative Rebuke' width='460' title='Rob Anders ' height='259' /> <p>Former Calgary MP Rob Anders — a long-time crusader for lower taxes who helped found the Conservative Party of Canada — has been charged amid allegations of tax evasion during the time he held his seat, federal prosecutors have confirmed to CBC News.</p> ]]>
-</description>
-</item>
-<item cbc:type="contentpackage" cbc:deptid="2.630" cbc:syndicate="true">
-<title>
-<![CDATA[ Tonight Trump debates the man he's spent months taunting as 'Sleepy Joe' ]]>
-</title>
-<link>https://www.cbc.ca/news/world/trump-biden-first-debate-1.5742482?cmp=rss</link>
-<guid isPermaLink="false">1.5327704</guid>
-<pubDate>Sat, 19 Oct 2019 12:37:24 EDT</pubDate>
-<author/>
-<category>News</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5741683.1601335136!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/election-2020-convention-tv-coverage.jpg' alt='Election 2020 Convention TV Coverage' width='460' title='Donald Trump, left, and Joe Biden, right, will meet Tuesday in Cleveland, debating on 6 preselected topics.' height='259' /> <p></p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.638" cbc:syndicate="true">
-<title>
-<![CDATA[ Ontario to invest $540M to protect long-term care homes against COVID-19 ]]>
-</title>
-<link>https://www.cbc.ca/news/canada/world-canada-covid-19-sept-29-1.5742767?cmp=rss</link>
-<guid isPermaLink="false">1.5742767</guid>
-<pubDate>Tue, 29 Sep 2020 07:11:54 EDT</pubDate>
-<author>Reuters</author>
-<category>News/Canada</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5743596.1601409415!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/fairview-nursing-home-covid-19.JPG' alt='Fairview Nursing Home Covid-19' width='460' title='A resident of Toronto’s Fairview Nursing Home leaves with paramedics on Sept. 29, 2020 — the same day Premier Doug Ford announced a plan to scale back visitations to care homes as a means to curb a spike in cases. Fairview is in the midst of an outbreak of COVID-19. ' height='259' /> <p>Quebec has ordered new restrictions on bars and restaurants in coronavirus hot spots, while Ontario's premier warned of a "more complex" second wave, as Canada's two most-populous provinces saw big increases in COVID-19 cases.</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.636" cbc:syndicate="true">
-<title>
-<![CDATA[ Military member with links to far-right groups says he's 'done nothing wrong' ]]>
-</title>
-<link>https://www.cbc.ca/news/politics/ranger-canadian-forces-myggland-odin-far-right-1.5741885?cmp=rss</link>
-<guid isPermaLink="false">1.5741885</guid>
-<pubDate>Tue, 29 Sep 2020 04:00:00 EDT</pubDate>
-<author>Murray Brewster</author>
-<category>News/Politics</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5699046.1599657466!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/erik-myggland.jpg' alt='Erik Myggland' width='460' title='A Facebook photo of Erik Myggland on Aug. 24, 2019 wearing a Three Percenter patch' height='259' /> <p>A Canadian military reservist whose membership in two far-right groups is being investigated by the army has spoken publicly about the matter for the first time, telling a local print and online publication in British Columbia that the allegations against him are "rubbish."</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
-<title>
-<![CDATA[ N.S. premier apologizes for systemic racism in justice system ]]>
-</title>
-<link>https://www.cbc.ca/news/canada/nova-scotia/apology-justice-racism-nova-scotia-1.5742914?cmp=rss</link>
-<guid isPermaLink="false">1.5742914</guid>
-<pubDate>Tue, 29 Sep 2020 10:26:47 EDT</pubDate>
-<author>CBC News</author>
-<category>News/Canada/Nova Scotia</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5742992.1601389668!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/premier-stephen-mcneil.jpg' alt='Premier Stephen McNeil' width='460' title='Nova Scotia Premier Stephen McNeil apologized for systemic racism in the Nova Scotia justice system. ' height='259' /> <p>Nova Scotia Premier Stephen McNeil today apologized for systemic racism in the justice system that has left Black and Indigenous people marginalized.</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.652" cbc:syndicate="true">
-<title>
-<![CDATA[ How Quebec went from COVID-19 success story to hot spot in 30 days ]]>
-</title>
-<link>https://www.cbc.ca/news/canada/montreal/quebec-covid-19-lockdown-second-wave-1.5742427?cmp=rss</link>
-<guid isPermaLink="false">1.5742427</guid>
-<pubDate>Tue, 29 Sep 2020 04:00:00 EDT</pubDate>
-<author>Jonathan Montpetit,Sean Gordon,Franca G. Mignacca,Benjamin Shingler</author>
-<category>News/Canada/Montreal</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5742771.1601371596!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_460/covid-que-20200927.jpg' alt='COVID Que 20200927' width='460' title='Several regions, including Montreal and Quebec City, are under new restrictions after a surge in COVID-19 cases. ' height='259' /> <p>A month ago Quebec had COVID-19 under control. Now it's spreading out of control again. What happened?</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.662" cbc:syndicate="true">
-<title>
-<![CDATA[ Seth MacLean died in July. Authorities buried him weeks later without telling his family ]]>
-</title>
-<link>https://www.cbc.ca/news/canada/toronto/burial-seth-maclean-1.5742087?cmp=rss</link>
-<guid isPermaLink="false">1.5742087</guid>
-<pubDate>Tue, 29 Sep 2020 04:00:00 EDT</pubDate>
-<author>John Lancaster</author>
-<category>News/Canada/Toronto</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5742112.1601395918!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/seth-maclean-family.jpg' alt='Seth Maclean family' width='460' title='Seth Maclean&#39;s family is demanding answers after authorities failed to let them know their son was deceased and buried.' height='259' /> <p>Seth MacLean was one of hundreds of people who died last year in Ontario but whose remains were never claimed. There is a process in place to search for the next of kin, but MacLean's family says the process failed them. </p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.659" cbc:syndicate="true">
-<title>
-<![CDATA[ Provincial election campaign kicks off in Saskatchewan ]]>
-</title>
-<link>https://www.cbc.ca/news/canada/saskatchewan/sask-election-campaign-starts-1.5737736?cmp=rss</link>
-<guid isPermaLink="false">1.5737736</guid>
-<pubDate>Tue, 29 Sep 2020 06:00:00 EDT</pubDate>
-<author>CBC News</author>
-<category>News/Canada/Saskatchewan</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5353484.1573237494!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/ryan-meili-and-scott-moe.jpg' alt='Ryan Meili and Scott Moe' width='460' title='NDP Leader Ryan Meili (left) and Premier Scott Moe and their caucus colleagues are having trouble finding common ground on agreed upon issues facing the province.' height='259' /> <p>Saskatchewan Premier Scott Moe met with the lieutenant-governor Tuesday morning, asking for the legislative assembly to be dissolved. Politicians are now off on the campaign trail — keeping COVID-19 restrictions and precautions in mind.</p> ]]>
-</description>
-</item>
-<item cbc:type="media" cbc:deptid="2.638" cbc:syndicate="true">
-<title>
-<![CDATA[ Some good news from across the country on Tuesday ]]>
-</title>
-<link>https://www.cbc.ca/news/canada/some-good-news-from-across-the-country-on-tuesday-1.5743245?cmp=rss</link>
-<guid isPermaLink="false">1.5743245</guid>
-<pubDate>Tue, 29 Sep 2020 12:23:00 EDT</pubDate>
-<author/>
-<category>News/Canada</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5743245.1601397901!/httpImage/image.jpg_gen/derivatives/16x9_460/image.jpg' alt='Some good news from across the country on Tuesday' width='460' title='With much of the world struggling through the COVID-19 pandemic, there are still some good-news stories to report. Here&#39;s a brief roundup.' height='259' /> <p>With much of the world struggling through the COVID-19 pandemic, there are still some good-news stories to report. Here's a brief roundup.</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.633" cbc:syndicate="true">
-<title>
-<![CDATA[ Canada concerned about broader conflict as renewed fighting erupts on Armenia's border ]]>
-</title>
-<link>https://www.cbc.ca/news/world/canada-concerned-fighting-erupts-armenia-s-border-1.5741964?cmp=rss</link>
-<guid isPermaLink="false">1.5741964</guid>
-<pubDate>Tue, 29 Sep 2020 04:00:00 EDT</pubDate>
-<author>Chris Brown</author>
-<category>News/World</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5742950.1601388554!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/armenia-azerbaijan.JPG' alt='ARMENIA AZERBAIJAN' width='460' title='An ethnic Armenian soldier fires an artillery piece during fighting with Azerbaijan&#39;s forces in the breakaway region of Nagorno-Karabakh, in this handout picture released September 29, 2020.' height='259' /> <p>Azerbaijan and Armenia are again fighting over disputed territory in the Caucasus Mountains — but this time the conflict could grow into a regional war and lead to a humanitarian crisis.</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
-<title>
-<![CDATA[ 'Moral injuries' that haunt soldiers off the battlefield to be studied in military-funded research ]]>
-</title>
-<link>https://www.cbc.ca/news/canada/nova-scotia/military-research-moral-injury-covid-19-pandemic-trauma-1.5737103?cmp=rss</link>
-<guid isPermaLink="false">1.5737103</guid>
-<pubDate>Tue, 29 Sep 2020 05:00:00 EDT</pubDate>
-<author>David Burke</author>
-<category>News/Canada/Nova Scotia</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5738438.1601029384!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/brian-mckenna-in-afghanistan.jpg' alt='Brian McKenna in Afghanistan' width='460' title='Brian McKenna in the Afghanistan city of Mazār-e Sharīf in 2012. McKenna is wearing the blue vest in the centre of the photo. ' height='259' /> <p>As the pandemic drags on, the Department of National Defence is worried it could see an increase in moral injuries in military personnel, health-care workers, and other staff at the front lines of dealing with COVID-19. In response, they've put out a call for innovate research to diagnose, prevent and treat those types of injuries.</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.632" cbc:syndicate="true">
-<title>
-<![CDATA[ Doctors worry supplies of flu vaccine, PPE won't meet demand, survey suggests ]]>
-</title>
-<link>https://www.cbc.ca/news/health/cma-ppe-flu-survey-1.5743488?cmp=rss</link>
-<guid isPermaLink="false">1.5743488</guid>
-<pubDate>Tue, 29 Sep 2020 15:40:16 EDT</pubDate>
-<author>The Canadian Press</author>
-<category>News/Health</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5743505.1601406738!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_460/early-flu-20200117.jpg' alt='Early Flu 20200117' width='460' title='A nurse prepares a flu shot at the Salvation Army in Atlanta, Feb. 7, 2018. Canada&#39;s chief public health officer says more children are being hospitalized this flu season because of an early spike in a strain of influenza B, which hits young people hard and is circulating across the country while a strain that typically targets the elderly also makes the rounds. ' height='259' /> <p>A new survey finds many doctors fear they won't have enough of the flu vaccine to meet the demand this season.</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.636" cbc:syndicate="true">
-<title>
-<![CDATA[ First virtual vote in the Commons marked by delays, technical glitches, goofs by MPs ]]>
-</title>
-<link>https://www.cbc.ca/news/politics/house-of-commons-virtual-vote-1.5742936?cmp=rss</link>
-<guid isPermaLink="false">1.5742936</guid>
-<pubDate>Tue, 29 Sep 2020 10:27:37 EDT</pubDate>
-<author>Joan Bryden</author>
-<category>News/Politics</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5742958.1601388057!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_460/covid-cda-parl-20200722.jpg' alt='COVID Cda Parl 20200722' width='460' title='Speaker of the House of Commons Anthony Rota rises in the chamber as he delivers a statement in the House of Commons, Wednesday, July 22, 2020 in Ottawa. ' height='259' /> <p>Members of Parliament have completed their first-ever virtual vote in the House of Commons, a historic occasion marked by numerous technical glitches, lengthy delays and cameo appearances by some of their kids and even a family dog.</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.633" cbc:syndicate="true">
-<title>
-<![CDATA[ Kentucky to release grand jury recordings in Breonna Taylor shooting probe ]]>
-</title>
-<link>https://www.cbc.ca/news/world/kentucky-breonna-taylor-grand-jury-1.5742843?cmp=rss</link>
-<guid isPermaLink="false">1.5742843</guid>
-<pubDate>Tue, 29 Sep 2020 09:47:13 EDT</pubDate>
-<author>The Associated Press</author>
-<category>News/World</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5742868.1601384430!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/racial-injustice-breonna-taylor.jpg' alt='Racial Injustice Breonna Taylor' width='460' title='A woman speaks to protesters on Sept. 25 in Louisville, Ky. Breonna Taylor&#39;s family had asked that Kentucky authorities release all body camera footage, police files and the transcripts of the grand jury hearings that led to no charges against police officers who killed the Black woman during a March raid at her apartment. ' height='259' /> <p>Kentucky's attorney general has agreed to release the recordings of the secret grand jury proceeding that considered charges against three officers involved in the fatal shooting of Breonna Taylor.</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.659" cbc:syndicate="true">
-<title>
-<![CDATA[ Largest outbreak of COVID-19 in an Indigenous community in Canada offers important lessons ]]>
-</title>
-<link>https://www.cbc.ca/news/canada/saskatchewan/outbreak-covid-19-indigenous-community-lessons-1.5737126?cmp=rss</link>
-<guid isPermaLink="false">1.5737126</guid>
-<pubDate>Tue, 29 Sep 2020 04:00:00 EDT</pubDate>
-<author>Bonnie Allen</author>
-<category>News/Canada/Saskatchewan</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5592060.1600967834!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/chief-teddy-clark-and-daughter-traya.jpg' alt='Chief Teddy Clark and daughter Traya' width='460' title='Chief of the Clearwater River Dene Nation, Teddy Clark, can be seen with his 12-year-old daughter Traya Clark, in this photo submitted to CBC. He says the fact his community has gotten down to zero active cases of COVID-19 is important, but says people still need to remain diligent to prevent the spread of the virus. ' height='259' /> <p>A large outbreak of COVID-19 in an Indigenous community in northwestern Saskatchewan has taught local leaders and health officials how to prepare for potential outbreaks in other rural or remote regions.</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.633" cbc:syndicate="true">
-<title>
-<![CDATA[ 3 killed in Northern California wildfire as thousands flee wine country ]]>
-</title>
-<link>https://www.cbc.ca/news/world/3-killed-northern-california-wildfire-1.5742800?cmp=rss</link>
-<guid isPermaLink="false">1.5742800</guid>
-<pubDate>Tue, 29 Sep 2020 07:54:12 EDT</pubDate>
-<author>The Associated Press</author>
-<category>News/World</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5743412.1601403972!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/california-wildfires.jpg' alt='California Wildfires' width='460' title='Eagle Field Fire Department firefighter Mark Jones extinguishes hot spots during the Glass Fire in St. Helena, Calif., on Monday, Sept. 28, 2020. ' height='259' /> <p>Easing winds gave California firefighters a break on Tuesday as they battled a destructive wildfire that was driven by strong winds through wine country north of San Francisco and another rural fire that killed three people.</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.664" cbc:syndicate="false">
-<title>
-<![CDATA[ How the Blue Jays capitalized on a pandemic MLB season to make the playoffs ]]>
-</title>
-<link>https://www.cbc.ca/sports/baseball/mlb/mlb-toronto-blue-jays-2020-playoff-preview-1.5740057?cmp=rss</link>
-<guid isPermaLink="false">1.5740057</guid>
-<pubDate>Tue, 29 Sep 2020 04:00:00 EDT</pubDate>
-<author>Myles Dichter</author>
-<category>Sports/Baseball/MLB</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5740063.1601313575!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/guerrero-vladimir-092820.jpg' alt='guerrero-vladimir-092820' width='460' title='Vladimir Guerrero Jr., second from right, and the Toronto Blue Jays celebrate clinching a playoff berth after beating the New York Yankees last week.' height='259' /> <p>The 2020 Toronto Blue Jays may have been lucky to reach the playoffs. But now facing a three-game wild-card series against the No. 1 Tampa Bay Rays beginning Tuesday, anything is possible.</p> ]]>
-</description>
-</item>
-<item cbc:type="story" cbc:deptid="2.636" cbc:syndicate="true">
-<title>
-<![CDATA[ Chinese dairy investor pressed Canada to 'mitigate the risk' of new NAFTA ]]>
-</title>
-<link>https://www.cbc.ca/news/politics/monday-feihe-nafta-atip-1.5739152?cmp=rss</link>
-<guid isPermaLink="false">1.5739152</guid>
-<pubDate>Tue, 29 Sep 2020 04:00:00 EDT</pubDate>
-<author>Janyce McGregor</author>
-<category>News/Politics</category>
-<description>
-<![CDATA[ <img src='https://i.cbc.ca/1.5431147.1601371640!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/1184394544.jpg' alt='1184394544' width='460' title='Leng Youbin, Chairman of China Feihe Limited, attends a news conference on its IPO on Oct. 29, 2019 in Hong Kong, China.' height='259' /> <p>Executives of the Chinese infant formula manufacturer that’s building a new $332 million plant in Kingston, Ont. contacted Canadian officials to complain about the new NAFTA agreement within days of the agreement being reached — and asked for help in mitigating the harm caused by Canada's concessions.</p> ]]>
-</description>
-</item>
-</channel>
+	<title>Geek Insider</title>
+	<atom:link href="https://geekinsider.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geekinsider.com</link>
+	<description>We discuss technology and geek culture</description>
+	<lastBuildDate>Mon, 25 Mar 2024 20:20:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>The Neverending Story Movie is a Go!</title>
+		<link>https://geekinsider.com/the-neverending-story-movie-is-a-go/</link>
+					<comments>https://geekinsider.com/the-neverending-story-movie-is-a-go/#respond</comments>
+		
+		<dc:creator><![CDATA[Rhett Dail]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2024 08:52:00 +0000</pubDate>
+				<category><![CDATA[Entertainment]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=233234</guid>
+
+					<description><![CDATA[Guess what? The Neverending Story movie is back on the adventure map, and it&#8217;s not just a rumor! After a pretty wild scramble between studios to snag the rights, it looks like we&#8217;re getting a fresh take on that epic tale we all know and love. This time around, the classic Wolf-Dieter von Gronau book...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/the-neverending-story-movie-is-a-go/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What Equipment Do You Need To Start Live Streaming?</title>
+		<link>https://geekinsider.com/what-equipment-do-you-need-to-start-live-streaming/</link>
+					<comments>https://geekinsider.com/what-equipment-do-you-need-to-start-live-streaming/#respond</comments>
+		
+		<dc:creator><![CDATA[Felicia Priedel]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 17:13:32 +0000</pubDate>
+				<category><![CDATA[Entertainment]]></category>
+		<category><![CDATA[entertainment]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=233105</guid>
+
+					<description><![CDATA[Are you ready to start your streaming career? Check out our guide on the essential equipment needed to go live and connect with your audience!]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/what-equipment-do-you-need-to-start-live-streaming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Personal Care in the Digital Age: Top Tips and Tech Advances</title>
+		<link>https://geekinsider.com/personal-care-in-the-digital-age-top-tips-and-tech-advances/</link>
+					<comments>https://geekinsider.com/personal-care-in-the-digital-age-top-tips-and-tech-advances/#respond</comments>
+		
+		<dc:creator><![CDATA[Matt]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 17:09:25 +0000</pubDate>
+				<category><![CDATA[Living]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=233306</guid>
+
+					<description><![CDATA[The digital age has ushered in a new era for personal care, seamlessly integrating technology into daily routines to enhance your health and well-being. With the advent of innovative gadgets and applications, managing your personal care has become more efficient and tailored to meet individual needs. From tracking your fitness progress with wearable devices to...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/personal-care-in-the-digital-age-top-tips-and-tech-advances/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vinyl Me, Please Unboxed &#8211; Nina Simone &#8216;Silk &#038; Soul&#8217;</title>
+		<link>https://geekinsider.com/vinyl-me-please-unboxed-nina-simone-silk-soul/</link>
+					<comments>https://geekinsider.com/vinyl-me-please-unboxed-nina-simone-silk-soul/#respond</comments>
+		
+		<dc:creator><![CDATA[Patrick Phillips]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 16:51:57 +0000</pubDate>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Nina Simone]]></category>
+		<category><![CDATA[Record Club]]></category>
+		<category><![CDATA[Silk & Soul]]></category>
+		<category><![CDATA[Soul Music]]></category>
+		<category><![CDATA[Vinyl Geek]]></category>
+		<category><![CDATA[Vinyl Me Please]]></category>
+		<category><![CDATA[VMP Classics]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232943</guid>
+
+					<description><![CDATA['Silk &#38; Soul' finds Simone in complete command of the jazz-tinged soul stylings she was renowned for.]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/vinyl-me-please-unboxed-nina-simone-silk-soul/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What Role Does AI Play in Optimizing Search Capabilities? Enhancing Precision and Efficiency</title>
+		<link>https://geekinsider.com/what-role-does-ai-play-in-optimizing-search-capabilities/</link>
+					<comments>https://geekinsider.com/what-role-does-ai-play-in-optimizing-search-capabilities/#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Bellah]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 16:46:16 +0000</pubDate>
+				<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=233285</guid>
+
+					<description><![CDATA[Artificial intelligence is revolutionizing the way we handle and retrieve information in the professional world. With the integration of AI into search engines such as SQUARE, professionals across various industries—from legal to academia—are experiencing a significant boost in efficiency and accuracy when accessing their document repositories.&#160; “Thanks to AI, search capabilities have gone beyond mere...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/what-role-does-ai-play-in-optimizing-search-capabilities/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Unleashing Creativity: Harnessing the Power of Generative AI for Artistic Endeavors</title>
+		<link>https://geekinsider.com/unleashing-creativity-harnessing-the-power-of-generative-ai-for-artistic-endeavors/</link>
+					<comments>https://geekinsider.com/unleashing-creativity-harnessing-the-power-of-generative-ai-for-artistic-endeavors/#respond</comments>
+		
+		<dc:creator><![CDATA[Matt]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 16:41:19 +0000</pubDate>
+				<category><![CDATA[Creators Corner]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=233276</guid>
+
+					<description><![CDATA[Artificial Intelligence (AI) is no longer confined to the realms of science fiction or high-tech labs—it’s right here, shaping and reshaping industries in ways unimaginable just a few years ago. In particular, AI&#8217;s influence on creativity is profound. Generative AI, a technology at the forefront of this movement, arms creators with novel tools to enhance...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/unleashing-creativity-harnessing-the-power-of-generative-ai-for-artistic-endeavors/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Yellowjackets Season 3 Not Coming Until 2025</title>
+		<link>https://geekinsider.com/yellowjackets-season-3-not-coming-until-2025/</link>
+					<comments>https://geekinsider.com/yellowjackets-season-3-not-coming-until-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[Rhett Dail]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 08:16:00 +0000</pubDate>
+				<category><![CDATA[Entertainment]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=233216</guid>
+
+					<description><![CDATA[Yellowjackets season two really threw us for a loop, didn&#8217;t it? Natalie was all over the place, stealing the spotlight in both the past and present. Back in their wild days, she sort of morphed into the so-called Antler Queen, and in the present-day saga, well, she faced a shocking fate. Not to mention, the...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/yellowjackets-season-3-not-coming-until-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>House of the Dragon Season 2 Is Around the Corner</title>
+		<link>https://geekinsider.com/house-of-the-dragon-season-2-is-around-the-corner/</link>
+					<comments>https://geekinsider.com/house-of-the-dragon-season-2-is-around-the-corner/#respond</comments>
+		
+		<dc:creator><![CDATA[Geek Insider Staff]]></dc:creator>
+		<pubDate>Sat, 23 Mar 2024 19:52:46 +0000</pubDate>
+				<category><![CDATA[Entertainment]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=233183</guid>
+
+					<description><![CDATA[Everyone&#8217;s buzzing with the big question: &#8220;When is House of the Dragon season 2 coming out?&#8221; Well, get ready, because it&#8217;s just around the bend. HBO&#8217;s already dropped a couple of seriously juicy trailers, hinting at the massive Targaryen showdown that&#8217;s about to unfold. We&#8217;re talking about the Dance of the Dragons &#8211; yeah, that...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/house-of-the-dragon-season-2-is-around-the-corner/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://www.youtube.com/embed/csSaSrJJPRs" medium="video" width="1280" height="720">
+			<media:player url="https://www.youtube.com/embed/csSaSrJJPRs" />
+			<media:title type="plain">House of the Dragon | Official Black Trailer | Max</media:title>
+			<media:description type="html"><![CDATA[The Black Trailer is here.  #HOTDS2 premieres June 16 on Max. #TeamBlack About Max:Max is the culture-defining entertainment service for every mood. With a v...]]></media:description>
+			<media:thumbnail url="https://static1.geekinsiderimages.com/wp-content/uploads/2024/03/house-of-the-dragon-official-bla.jpg" />
+			<media:rating scheme="urn:simple">nonadult</media:rating>
+		</media:content>
+	</item>
+		<item>
+		<title>One-Punch Man Season 3 Announced</title>
+		<link>https://geekinsider.com/one-punch-man-season-3-announced/</link>
+					<comments>https://geekinsider.com/one-punch-man-season-3-announced/#respond</comments>
+		
+		<dc:creator><![CDATA[Geek Insider Staff]]></dc:creator>
+		<pubDate>Sat, 23 Mar 2024 19:04:09 +0000</pubDate>
+				<category><![CDATA[Entertainment]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=233156</guid>
+
+					<description><![CDATA[Get ready to see Saitama back in action because One-Punch Man Season 3 is officially on its way. Yeah, you heard that right! The beloved anime that had us all hooked is gearing up for another season. The production wheels are turning, and guess what? Chikashi Kubota, the genius behind the character designs in the...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/one-punch-man-season-3-announced/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Financial Transparency: Understanding Accounting Practices for Nonprofit Organizations in Canada</title>
+		<link>https://geekinsider.com/financial-transparency-understanding-accounting-practices-canada/</link>
+					<comments>https://geekinsider.com/financial-transparency-understanding-accounting-practices-canada/#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Bellah]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2024 11:16:10 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=233114</guid>
+
+					<description><![CDATA[‍In an era where donors and stakeholders demand transparency and accountability, understanding the complex world of nonprofit accounting practices has never been more critical. Financial transparency like accountor.ca/industries/accounting-and-bookkeeping-for-civic-religious-and-charitable-entities/accounting-and-bookkeeping-services-for-nonprofits-npo.html is not merely about fulfilling legal obligations. It is about demonstrating responsibility, stewardship, and reliability – factors that can significantly influence a nonprofit organization&#8217;s credibility and long-term...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/financial-transparency-understanding-accounting-practices-canada/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>4 Essential Innovations in Vehicle Technology</title>
+		<link>https://geekinsider.com/4-essential-innovations-in-vehicle-technology/</link>
+					<comments>https://geekinsider.com/4-essential-innovations-in-vehicle-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[mattb]]></dc:creator>
+		<pubDate>Tue, 19 Mar 2024 18:17:50 +0000</pubDate>
+				<category><![CDATA[Explainers]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=233090</guid>
+
+					<description><![CDATA[Vehicle technology has come a long way since the early days when vehicles were manual, and few and far between. Currently, vehicles are a basic part of life for the majority of people and the innovations are growing by leaps and bounds. This means that it&#8217;s currently possible to access tech that would have seemed...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/4-essential-innovations-in-vehicle-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Making Time To Spend With Your Family Doesn&#8217;t Have To Be Boring</title>
+		<link>https://geekinsider.com/making-time-to-spend-with-your-family-doesnt-have-to-be-boring/</link>
+					<comments>https://geekinsider.com/making-time-to-spend-with-your-family-doesnt-have-to-be-boring/#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Bellah]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2024 12:34:39 +0000</pubDate>
+				<category><![CDATA[Living]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=233075</guid>
+
+					<description><![CDATA[Making time to spend with your family doesn’t have to be boring. Too many people are hesitant to spend time with those that they love these days for one reason or another, and it’s got to come to an end. It should be something that you and your family members look forward to, not something...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/making-time-to-spend-with-your-family-doesnt-have-to-be-boring/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cost Accounting Strategies: Streamlining Your Assignments for Success</title>
+		<link>https://geekinsider.com/cost-accounting-strategies-streamlining-your-assignments-for-success-3/</link>
+					<comments>https://geekinsider.com/cost-accounting-strategies-streamlining-your-assignments-for-success-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Bellah]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2024 02:59:32 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=233039</guid>
+
+					<description><![CDATA[Students pursuing finance need to excel in cost accounting because costing makes up a major part of financial decision making. But, most of them find it difficult to navigate due to the complexities and wide range of concepts involved in cost. Understand the nitty-gritty of standard costing, lean accounting, activity-based costing, and marginal costing can...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/cost-accounting-strategies-streamlining-your-assignments-for-success-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mastering Business Headshot Makeup Etiquette for Men and Women: Dos and Don&#8217;ts</title>
+		<link>https://geekinsider.com/mastering-business-headshot-makeup-etiquette-for-men-and-women-dos-and-donts/</link>
+					<comments>https://geekinsider.com/mastering-business-headshot-makeup-etiquette-for-men-and-women-dos-and-donts/#respond</comments>
+		
+		<dc:creator><![CDATA[Matt]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2024 17:36:03 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232928</guid>
+
+					<description><![CDATA[Professional headshots are a staple in the business world, forming the first impression clients and colleagues have of an individual. As such, the makeup and grooming for these headshots must be carefully considered to ensure it complement, rather than detract from, the subject&#8217;s professionalism. When preparing for a session to capture your image, it&#8217;s crucial...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/mastering-business-headshot-makeup-etiquette-for-men-and-women-dos-and-donts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Where Does Amazon Music Download to Your Devices?</title>
+		<link>https://geekinsider.com/where-does-amazon-download-music-to/</link>
+					<comments>https://geekinsider.com/where-does-amazon-download-music-to/#respond</comments>
+		
+		<dc:creator><![CDATA[Matt]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2024 14:38:48 +0000</pubDate>
+				<category><![CDATA[Entertainment]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232883</guid>
+
+					<description><![CDATA[Amazon Music allows you to download songs for offline listening. If you have Amazon Prime, you can download music from the Prime Playlists for free. Amazon Music Unlimited subscribers pay $10.99/month for access to over 100 million songs which they can also download. It&#8217;s important to know where does Amazon download music to if you...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/where-does-amazon-download-music-to/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5 Home Technologies for a Modern Lifestyle</title>
+		<link>https://geekinsider.com/5-home-technologies-for-a-modern-lifestyle/</link>
+					<comments>https://geekinsider.com/5-home-technologies-for-a-modern-lifestyle/#respond</comments>
+		
+		<dc:creator><![CDATA[Felicia Priedel]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2024 14:37:05 +0000</pubDate>
+				<category><![CDATA[Living]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232916</guid>
+
+					<description><![CDATA[People live today in greater comfort than ever before, and much of this is thanks to modern technology. Here are a few innovations to keep an eye on.]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/5-home-technologies-for-a-modern-lifestyle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Importance of Bed Bug Heat Treatment for Hotel Guest Satisfaction</title>
+		<link>https://geekinsider.com/the-importance-of-bed-bug-heat-treatment-for-hotel-guest-satisfaction/</link>
+					<comments>https://geekinsider.com/the-importance-of-bed-bug-heat-treatment-for-hotel-guest-satisfaction/#respond</comments>
+		
+		<dc:creator><![CDATA[Matt]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2024 01:09:04 +0000</pubDate>
+				<category><![CDATA[Living]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232871</guid>
+
+					<description><![CDATA[When it comes to running a successful hotel, guest satisfaction is paramount. Among the myriad of factors that contribute to a pleasant stay, cleanliness and comfort top the list. However, an unwelcome guest, namely bed bugs, can tarnish a hotel&#8217;s reputation and leave guests dissatisfied.&#160; In the battle against these pesky intruders, bed bug heat...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/the-importance-of-bed-bug-heat-treatment-for-hotel-guest-satisfaction/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Industries That Rely on Custom Metal Fabrication</title>
+		<link>https://geekinsider.com/industries-that-rely-on-custom-metal-fabrication/</link>
+					<comments>https://geekinsider.com/industries-that-rely-on-custom-metal-fabrication/#respond</comments>
+		
+		<dc:creator><![CDATA[Felicia Priedel]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 22:42:01 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232682</guid>
+
+					<description><![CDATA[Metal fabrication is an easily overlooked sector of industrial demand, but many everyday industries rely on this unique production process. Learn more here.
+]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/industries-that-rely-on-custom-metal-fabrication/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tips for Improving the Connectivity of Video Calls</title>
+		<link>https://geekinsider.com/tips-for-improving-the-connectivity-of-video-calls/</link>
+					<comments>https://geekinsider.com/tips-for-improving-the-connectivity-of-video-calls/#respond</comments>
+		
+		<dc:creator><![CDATA[Felicia Priedel]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 22:41:34 +0000</pubDate>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232844</guid>
+
+					<description><![CDATA[Many people rely on video calls to stay connected; however, when these calls lack quality, you may need a few ways to improve your connectivity.]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/tips-for-improving-the-connectivity-of-video-calls/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Accelerating Blockchain Performance: Elrond&#8217;s Expedition</title>
+		<link>https://geekinsider.com/accelerating-blockchain-performance-elronds-expedition/</link>
+					<comments>https://geekinsider.com/accelerating-blockchain-performance-elronds-expedition/#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Bellah]]></dc:creator>
+		<pubDate>Wed, 13 Mar 2024 16:35:16 +0000</pubDate>
+				<category><![CDATA[Crypto Currency]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232835</guid>
+
+					<description><![CDATA[Blockchain technology has revolutionized various industries with its promise of decentralization, transparency, and security. However, as blockchain adoption continues to grow, the need for improved performance has become increasingly critical. In this article, we will explore the importance of blockchain performance, delve into Elrond&#8217;s innovative solutions for accelerating it, and assess its impact on the...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/accelerating-blockchain-performance-elronds-expedition/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Evolution of AI and Automation in Digital Marketing</title>
+		<link>https://geekinsider.com/the-evolution-of-ai-and-automation-in-digital-marketing/</link>
+					<comments>https://geekinsider.com/the-evolution-of-ai-and-automation-in-digital-marketing/#respond</comments>
+		
+		<dc:creator><![CDATA[Matt]]></dc:creator>
+		<pubDate>Wed, 13 Mar 2024 14:02:49 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232811</guid>
+
+					<description><![CDATA[Artificial Intelligence (AI) and automation have emerged as game-changers in the digital marketing space. They are not just buzzwords but are reshaping how you connect with audiences, personalize your campaigns, and analyze data. The integration of AI and automation in digital marketing has been a leap forward from conventional methods, transforming the landscape into a...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/the-evolution-of-ai-and-automation-in-digital-marketing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Choosing Crypto Exchange for Token Listing: Key Considerations</title>
+		<link>https://geekinsider.com/choosing-crypto-exchange-for-token-listing-key-considerations/</link>
+					<comments>https://geekinsider.com/choosing-crypto-exchange-for-token-listing-key-considerations/#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Bellah]]></dc:creator>
+		<pubDate>Wed, 13 Mar 2024 13:52:26 +0000</pubDate>
+				<category><![CDATA[Crypto Currency]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232802</guid>
+
+					<description><![CDATA[There are around 600 crypto exchanges worldwide, each with its specific features, fees, and reputation. Choosing a platform for token listing is not an easy process and requires thorough studying of exchanges’ listing fees, liquidity, compliance, and many other criteria. Of course, the listing process may vary on different exchanges. Listing on a decentralized exchange...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/choosing-crypto-exchange-for-token-listing-key-considerations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Celebrate Women’s History Month with Redbox Free Streaming</title>
+		<link>https://geekinsider.com/celebrate-womens-history-month-with-redbox-free-streaming/</link>
+					<comments>https://geekinsider.com/celebrate-womens-history-month-with-redbox-free-streaming/#respond</comments>
+		
+		<dc:creator><![CDATA[Chicken Soup]]></dc:creator>
+		<pubDate>Tue, 12 Mar 2024 20:13:34 +0000</pubDate>
+				<category><![CDATA[Entertainment]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232496</guid>
+
+					<description><![CDATA[Join your friends from Redbox in celebrating all of the ways women have impacted our world! Check out some of these exciting FREE titles spotlighting the women leading our culture today! Your friends from Redbox want to help you celebrate Women’s History Month in March with these female led titles to stream for FREE! Taylor...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/celebrate-womens-history-month-with-redbox-free-streaming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Behind the Screen and the Real Lives of OF Creators Off-Camera</title>
+		<link>https://geekinsider.com/behind-the-screen-and-the-real-lives-of-of-creators-off-camera/</link>
+					<comments>https://geekinsider.com/behind-the-screen-and-the-real-lives-of-of-creators-off-camera/#respond</comments>
+		
+		<dc:creator><![CDATA[Matt]]></dc:creator>
+		<pubDate>Mon, 11 Mar 2024 16:30:42 +0000</pubDate>
+				<category><![CDATA[Entertainment]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232667</guid>
+
+					<description><![CDATA[Onlyfans has captured the imagination of millions worldwide, offering a platform where creators can share their content directly with subscribers. However, behind the polished images and curated videos lies the reality of the lives of Onlyfans creators. In this article, we  delve into the authentic experiences of these creators, shedding light on the challenges, triumphs,...]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/behind-the-screen-and-the-real-lives-of-of-creators-off-camera/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What&#8217;s the Psychology Behind Smartphone Brand Loyalty?</title>
+		<link>https://geekinsider.com/whats-the-psychology-behind-smartphone-brand-loyalty/</link>
+					<comments>https://geekinsider.com/whats-the-psychology-behind-smartphone-brand-loyalty/#respond</comments>
+		
+		<dc:creator><![CDATA[Felicia Priedel]]></dc:creator>
+		<pubDate>Mon, 11 Mar 2024 16:22:19 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<guid isPermaLink="false">https://geekinsider.com/?p=232571</guid>
+
+					<description><![CDATA[Learn the psychology that lies behind smartphone brand loyalty. Let's dissect the mindset of consumers who stick to one phone brand over another.
+]]></description>
+		
+					<wfw:commentRss>https://geekinsider.com/whats-the-psychology-behind-smartphone-brand-loyalty/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
