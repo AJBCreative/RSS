@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Geek Insider</title>
-	<atom:link href="https://geekinsider.com/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ajbcreative.github.io/RSS/rss.xml" rel="self" type="application/rss+xml" />
 	<link>https://geekinsider.com</link>
 	<description>We discuss technology and geek culture</description>
 	<lastBuildDate>Mon, 25 Mar 2024 20:20:35 +0000</lastBuildDate>
